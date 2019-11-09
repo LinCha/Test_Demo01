@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-public 222void static mian(){
-	
-=======
-public void static mian(){
-	sout("hello word")
->>>>>>> 45708f0be039ff0a57d9ca6f401469c0747ae511
-}
