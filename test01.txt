@@ -1,3 +1,5 @@
 public void static mian(){
 	sout("hello word")
+
+
 }
